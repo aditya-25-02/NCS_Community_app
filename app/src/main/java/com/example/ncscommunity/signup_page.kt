@@ -21,7 +21,7 @@ class signup_page : AppCompatActivity() {
         setContentView(R.layout.activity_signup_page)
 
         // Initialize Firebase Auth
-        auth = Firebase.auth
+        auth = FirebaseAuth.getInstance()
 
         signup_btn.setOnClickListener{
             signUpUser()
