@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "959632071814",
+    "firebase_url": "https://ncs-community-app.firebaseio.com",
+    "project_id": "ncs-community-app",
+    "storage_bucket": "ncs-community-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959632071814:android:aab89643b688c3c7ed8507",
+        "android_client_info": {
+          "package_name": "com.example.ncscommunity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959632071814-o2jmpogpjo6revahgird51pf094sqotq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI-NRg2LfUhvakKK5mo6gULinLwJy7tT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959632071814-o2jmpogpjo6revahgird51pf094sqotq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
