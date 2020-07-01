@@ -14,9 +14,5 @@ class MainActivity : AppCompatActivity() {
             val i = Intent (this,login_page::class.java)
             startActivity(i)
         }
-        create_acc.setOnClickListener{
-            val j = Intent (this,signup_page::class.java)
-            startActivity(j)
-        }
     }
 }
