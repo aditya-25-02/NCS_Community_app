@@ -25,7 +25,7 @@ class login_page : AppCompatActivity() {
         // Initialize Firebase Auth
         auth = FirebaseAuth.getInstance()
 
-        loginbtn.setOnClickListener {
+        login_btn.setOnClickListener {
             loginUser()
         }
         forgotbtn.setOnClickListener{
